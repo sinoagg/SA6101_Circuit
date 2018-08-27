@@ -1,0 +1,64 @@
+Comment,Description,Designator,Footprint,LibRef,Pins,Quantity
+,,,,,,
+100nF,Capacitor,"C1, C2, C3, C4, C5, C29, C71, C72, C73, C74, C75, C76, C78, C79, C82, C86, C89",603,Cap,2,17
+1uF,Capacitor,"C6, C22",603,Cap,2,2
+22nF,Capacitor,"C21, C80",603,Cap,2,2
+100nF,"Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor,100V, Capacitor,100V, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor,100V, Capacitor,100V, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor,100V, Capacitor,100V, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor,100V, Capacitor,100V, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor,100V, Capacitor,100V","C30, C31, C33, C34, C36, C42, C44, C46, C48, C50, C57, C77, C83, C84, C85, C91, C92, C110, C112, C114, C116, C118, C120, C122, C124, C126, C129, C130, C132, C134, C136, C137, C139, C140, C143, C145, C147, C148, C150, C151, C153, C155, C157, C160, C162, C163",805,Cap,2,46
+10uF,Polarized Capacitor (Radial),"C32, C35, C37, C43, C45, C47, C49, C51, C55, C59, C60, C113",6032_POL,Cap Pol1,2,12
+100pF,Capacitor,"C38, C39, C40, C41, C104",805,Cap,2,5
+47uF,Polarized Capacitor (Radial),"C52, C53",cap_pol_8*10.2,Cap Pol1,2,2
+"47uF,50V",Polarized Capacitor (Radial),"C54, C61",cap_pol_8*10.2,Cap Pol1,2,2
+1uF,"Capacitor,100V, Capacitor, Capacitor,100V","C56, C58, C62",805,Cap,2,3
+47pF,Capacitor,C63,805,Cap,2,1
+10pF,Capacitor,C64,805,Cap,2,1
+4.7pF,Capacitor,C65,805,Cap,2,1
+1pF,Capacitor,C66,805,Cap,2,1
+10uF,Capacitor,C90,805,Cap,2,1
+0.47pF,Capacitor,C100,805,Cap,2,1
+NULL,Capacitor,"C101, C102, C103",805,Cap,2,3
+10uF,Polarized Capacitor (Radial),"C111, C115, C117",6032_POL,Cap Pol1,2,3
+10nF,Capacitor,"C128, C142, C158, C159",603,Cap,2,4
+1nF,"Capacitor,100V","C131, C138, C149, C161",603,Cap,2,4
+USB_5pin,,DL,USBmicro_B,USB_5pin,5,1
+SMA,BNC Elbow Connector,"DRAIN, GATE, SOURCE, SUB",SMA_SMT,BNC,2,4
+USART,"Receptacle Assembly, 9 Position, Right Angle",J1,DSUB1.385-2H9,D Connector 9,11,1
+Relay,Relay OMRON,"K1, K2, K3, K4, K9, K10, K11, K12, K13, K14, K15, K16, K17",Relay_OMRON5V,Relay_OMRON5V,6,13
+AXICOM IM,,"K18, K19, K20",AXICOM_IM06,AXiCOM IM05,8,3
+10uH,Inductor,L1,805,Inductor,2,1
+Bead,Inductor,L2,8040,Inductor,2,1
+10uH,Inductor,L3,1206,Inductor,2,1
+Header 8,"Header, 8-Pin",LCD,HDR1X8,Header 8,8,1
+Header 3,"Header, 3-Pin",LED,HDR1X3,Header 3,3,1
+Header 3,"Header, 3-Pin","PWR_5V, PWR_20V",PWR_3T,Header 3,3,2
+NUD3112,Relay Driver 5V Supply,"Q1, Q2, Q3, Q4, Q9, Q10, Q11, Q12, Q13, Q14, Q15, Q16, Q17, Q18, Q19, Q20",SOT-23,NUD3105,3,16
+100R,Resistor,"R1, R13",603,Res1,2,2
+10K,Resistor,R2,603,Res1,2,1
+Res1,Resistor,"R4, R5, R6, R47, R48, R49, R50",805,Res1,2,7
+100K,Resistor,R7,805,Res1,2,1
+0R,Resistor,"R8, R90, R94, R95, R96",603,Res1,2,5
+1K,Resistor,"R9, R61, R62, R63, R64, R65, R68, R69, R70, R71, R72, R75, R76, R77, R78, R79, R82, R83, R84, R85, R86",603,Res1,2,21
+5.1K,Resistor,"R14, R16, R18, R21, R22, R24, R34, R36",805,Res1,2,8
+51K,Resistor,"R15, R17, R19, R20, R23, R25, R35, R37",805,Res1,2,8
+22R,Resistor,"R40, R41",402,Res1,2,2
+1.5K,Resistor,R42,402,Res1,2,1
+1M,Resistor,R46,805,Res1,2,1
+9.1K,Resistor,"R60, R67, R74, R81",603,Res1,2,4
+2.2K,Resistor,"R66, R73, R80, R87",603,Res1,2,4
+Res1,Resistor,R91,603,Res1,2,1
+NULL,Resistor,"R92, R93, R97, R101, R102",603,Res1,2,5
+120R,Resistor,R100,603,Res1,2,1
+STM32F103RET6,"STM32 ARM-based 32-bit MCU with 128 Kbytes Flash, 64-pin LQFP, Industrial Temperature",U1,LQFP64_N,STM32F103RBT6,64,1
+RT9193,,U2,SOT-23-5,RT9193,5,1
+AD5687R,,"U3, U4",TSSOP16,AD5687R,16,2
+ADR441,"Ultralow Noise, XFET Voltage References","U5, U19",SO-8N,ADR441,8,2
+AD8601,"Precision CMOS, Single Supply, Rail to Rail, Windband Operational Amplifiers","U6, U26",SOT-23-5,AD8601,5,2
+AD7988-1,,U7,MSOP10,AD7988-1,10,1
+AD8253,,U8,RM-10,AD8253,10,1
+ADR127-1.25,,U9,SOT_UJ6,ADR127,6,1
+ADA4522-2,,"U22, U23, U29, U30, U32, U35, U38, U41",SO-8N,AD8676,8,8
+ADA5430,,U24,SO-8N,ADA5430,8,1
+AD4522-1,,"U33, U36, U39, U42",SO-8N,OP27,8,4
+AD7791,One channel 24 bits ADC,"U34, U37, U40, U43",RM-10,AD7791,10,4
+SP3485,,U44,SO-8N,SP3485,8,1
+USB,USB interface,USB,USB_A,USB_Normal,6,1
+8M smd,,X1,8Mhz_XTAL,8M smd,3,1
